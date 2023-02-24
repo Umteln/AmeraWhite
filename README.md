@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amerawhite.vercel.app/](https://amerawhite.vercel.app/)
 
-- 📝 I regularly write articles on [https://dev.to/amera](https://dev.to/amera)
-
-- 💬 Ask me about **React**
+- 📝 You can find my articles on [https://dev.to/amera](https://dev.to/amera)
 
 - 📫 How to reach me **amerawhite54@gmail.com**
 
