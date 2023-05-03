@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Accolades - Digital Token Board](https://github.com/Umteln/Accolades)
 
-- 🌱 I’m currently learning **React Native, Typescript**
+- 🌱 I’m currently learning ** Typescript with React**
 
 - 👨‍💻 All of my projects are available at [https://amerawhite.vercel.app/](https://amerawhite.vercel.app/)
 
