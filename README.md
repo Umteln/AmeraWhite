@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amera White</h1>
 <h3 align="center">A passionate Software Engineer | Full-Stack Web Development</h3>
 
-- 🔭 I’m currently working on [Accolades - Digital Token Board](https://github.com/Umteln/Accolades)
+- 🔭 I’m currently working on [Aware - Accessibility Checker](https://github.com/Umteln/)
 
 - 🌱 I’m currently learning ** Typescript with React**
 
-- 👨‍💻 All of my projects are available at [https://amerawhite.vercel.app/](https://amerawhite.vercel.app/)
+- 👨‍💻 Work with me at [https://amerawhite.vercel.app/](https://amerawhite.vercel.app/)
 
 - 📝 You can find my articles on [https://dev.to/amera](https://dev.to/amera)
 
