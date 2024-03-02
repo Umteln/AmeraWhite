@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Aware - Accessibility Checker](https://github.com/Umteln/)
 
-- 🌱 I’m currently learning ** Typescript with React**
+- 🌱 I’m currently learning ** C# and Unity **
 
 - 👨‍💻 Work with me at [https://amerawhite.vercel.app/](https://amerawhite.vercel.app/)
 
